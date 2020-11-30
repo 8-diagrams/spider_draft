@@ -4,6 +4,8 @@
 目前破解这两种验证码主要是selenium，但是本人想要用js 进行破解，
 有大牛或者有兴趣的可以交流指教一下，也可以私信我一起做一些学习性质的东西
 ：[我的博客](https://blog.csdn.net/amanloveformi).
+
+
 另：本人运行的生成ua参数的js 在execjs 中无法正常返回 有大神可以将本项目中的ua.html中的js（在chrome中可以返回正常的结果但是本人使用execjs则返回None）
 在execjs中运行出结果的可以私信交流，多谢。
 
